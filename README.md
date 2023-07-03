@@ -1,3 +1,16 @@
+<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=195&height=40&lines=CERTIFICATIONS" alt="CERTIFICATIONS" />
+
+The Certifications repository is a centralized hub for storing and showcasing a collection of my achieved certificates. The repository contains certificates earned from various sources, such as educational institutions and online platforms.
+
+<br/>
+
+```
+NOTE: Certifications are sorted by alphabetically A - Z.
+```
+
+<br/>
+<br/>
+
 <details>
     <summary> [NEW] React + Firebase: For Beginners </summary>
     <br/>
@@ -198,6 +211,7 @@
     </a>
 </details>
 
+<br/>
 <br/>
 <br/>
 <br/>
