@@ -67,6 +67,14 @@ NOTE: Certifications are sorted by alphabetically A - Z.
 </details>
 
 <details>
+    <summary> Command Line in Linux </summary>
+    <br/>
+    <a href="https://www.coursera.org/account/accomplishments/verify/CC7F3ETBKK8U">
+        <img loading="lazy" alt="Command Line in Linux" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CC7F3ETBKK8U/CERTIFICATE_LANDING_PAGE~CC7F3ETBKK8U.jpeg" />
+    </a>
+</details>
+
+<details>
     <summary> Create a Blog or Website In less than 1 Hour using WordPress </summary>
     <br/>
     <a href="https://www.udemy.com/certificate/UC-23f07a27-808f-4f1b-adf7-5a1f2f6567a9/">
@@ -75,10 +83,26 @@ NOTE: Certifications are sorted by alphabetically A - Z.
 </details>
 
 <details>
+    <summary> Create a Resume and Cover Letter with Google Docs </summary>
+    <br/>
+    <a href="https://www.coursera.org/account/accomplishments/verify/WHYQWEQVH7XH">
+        <img loading="lazy" alt="Create a Resume and Cover Letter with Google Docs" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WHYQWEQVH7XH/CERTIFICATE_LANDING_PAGE~WHYQWEQVH7XH.jpeg" />
+    </a>
+</details>
+
+<details>
     <summary> Getting Started with React Hooks </summary>
     <br/>
     <a href="https://www.udemy.com/certificate/UC-81a2e505-c03f-4bc4-9bd6-d172cf94ae3d/">
         <img loading="lazy" alt="Getting Started with React Hooks" src="https://udemy-certificate.s3.amazonaws.com/image/UC-81a2e505-c03f-4bc4-9bd6-d172cf94ae3d.jpg?v=1659990609000" />
+    </a>
+</details>
+
+<details>
+    <summary> Git + GitHub for Open Source Collaboration </summary>
+    <br/>
+    <a href="https://www.coursera.org/account/accomplishments/verify/5XKX3V74MZA6">
+        <img loading="lazy" alt="Git + GitHub for Open Source Collaboration" src="./media/images/Git%20+%20GitHub%20for%20Open%20Source%20Collaboration.png" />
     </a>
 </details>
 
@@ -155,6 +179,14 @@ NOTE: Certifications are sorted by alphabetically A - Z.
 </details>
 
 <details>
+    <summary> Position Elements on a Page with CSS </summary>
+    <br/>
+    <a href="https://www.coursera.org/account/accomplishments/verify/DKL6A3KTYL34">
+        <img loading="lazy" alt="Position Elements on a Page with CSS" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DKL6A3KTYL34/CERTIFICATE_LANDING_PAGE~DKL6A3KTYL34.jpeg" />
+    </a>
+</details>
+
+<details>
     <summary> Pre-Programming: Everything you need to know before you code </summary>
     <br/>
     <a href="https://www.udemy.com/certificate/UC-FBAGJ85J/">
@@ -191,6 +223,14 @@ NOTE: Certifications are sorted by alphabetically A - Z.
     <br/>
     <a href="https://www.udemy.com/certificate/UC-0deacdeb-f121-496d-b9ea-b7d7e317c0a9/">
         <img loading="lazy" alt="The Complete ReactJs Course - Basics to Advanced [2023]" src="https://udemy-certificate.s3.amazonaws.com/image/UC-0deacdeb-f121-496d-b9ea-b7d7e317c0a9.jpg?v=1659991758000" />
+    </a>
+</details>
+
+<details>
+    <summary> Use Commands and Create a Remote Git Repository </summary>
+    <br/>
+    <a href="https://www.coursera.org/account/accomplishments/verify/HHS3XUAFQWZU">
+        <img loading="lazy" alt="Use Commands and Create a Remote Git Repository" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HHS3XUAFQWZU/CERTIFICATE_LANDING_PAGE~HHS3XUAFQWZU.jpeg" />
     </a>
 </details>
 
