@@ -1,5 +1,20 @@
 <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=195&height=40&lines=CERTIFICATIONS" alt="CERTIFICATIONS" />
 
+<!-- repository summary badges start -->
+<div>
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/montasim/certifications?&labelColor=EB008B&color=00B8B5">
+    <img alt="goto badge" src="https://img.shields.io/github/search/montasim/certifications/goto?&labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/montasim/certifications?&labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/certifications?&labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub" src="https://img.shields.io/github/license/montasim/certifications?&labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/certifications?&labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/certifications?&labelColor=EB008B&color=00B8B5">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/certifications?&labelColor=EB008B&color=00B8B5">
+</div>
+<!-- repository summary badges end -->
+
+<br/>
+
 The Certifications repository is a centralized hub for storing and showcasing a collection of my achieved certificates. The repository contains certificates earned from various sources, such as educational institutions and online platforms.
 
 <br/>
