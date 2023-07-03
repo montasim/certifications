@@ -7,14 +7,6 @@
 </details>
 
 <details>
-    <summary> [NEW] React + Firebase: For Beginners </summary>
-    <br/>
-    <a href="https://www.udemy.com/certificate/UC-96cee3e4-f458-4cc6-95ef-045d158c361c/">
-        <img loading="lazy" alt="[NEW] React + Firebase: For Beginners" src="https://udemy-certificate.s3.amazonaws.com/image/UC-96cee3e4-f458-4cc6-95ef-045d158c361c.jpg?v=1659991070000" />
-    </a>
-</details>
-
-<details>
     <summary> 10 Techniques to Master Learning </summary>
     <br/>
     <a href="https://www.udemy.com/certificate/UC-P6XOGWBR/">
