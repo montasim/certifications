@@ -27,6 +27,14 @@ NOTE: Certifications are sorted by alphabetically A - Z.
 <br/>
 
 <details>
+    <summary> Webservices API Testing with Postman - Complete Guide </summary>
+    <br/>
+    <a href="https://www.udemy.com/certificate/UC-5feb9208-aa7d-4ff4-9556-af46e4fb90c8/">
+        <img loading="lazy" alt="Webservices API Testing with Postman - Complete Guide" src="https://udemy-certificate.s3.amazonaws.com/image/UC-5feb9208-aa7d-4ff4-9556-af46e4fb90c8.jpg?v=1695395846000" />
+    </a>
+</details>
+
+<details>
     <summary> [NEW] React + Firebase: For Beginners </summary>
     <br/>
     <a href="https://www.udemy.com/certificate/UC-96cee3e4-f458-4cc6-95ef-045d158c361c/">
