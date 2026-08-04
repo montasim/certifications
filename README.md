@@ -1,30 +1,32 @@
-<img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=1&pause=1&color=EB008B&center=true&vCenter=true&repeat=false&width=195&height=40&lines=CERTIFICATIONS" alt="CERTIFICATIONS" />
+# Montasim's Certifications
 
-<!-- repository summary badges start -->
-<div>
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/montasim/certifications?&labelColor=EB008B&color=00B8B5">
-    <img alt="goto badge" src="https://img.shields.io/github/search/montasim/certifications/goto?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/montasim/certifications?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/montasim/certifications?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub" src="https://img.shields.io/github/license/montasim/certifications?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/montasim/certifications?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/montasim/certifications?&labelColor=EB008B&color=00B8B5">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/montasim/certifications?&labelColor=EB008B&color=00B8B5">
-</div>
-<!-- repository summary badges end -->
+> A public, link-backed index of course and guided-project certificates earned across software development, tooling, productivity, and foundational computing topics.
 
-<br/>
+[![Certificate entries](https://img.shields.io/badge/certificate%20entries-32-00B8B5)](#certificate-index)
+[![Repository status](https://img.shields.io/badge/status-personal%20record-blue)](#scope-and-verification)
+[![Support on SupportKori](https://img.shields.io/badge/Support_on-SupportKori-00B8B5)](https://www.supportkori.com/montasim)
 
-The Certifications repository is a centralized hub for storing and showcasing a collection of my achieved certificates. The repository contains certificates earned from various sources, such as educational institutions and online platforms.
+This repository keeps certificate evidence in one browsable place instead of scattering links across profiles and documents. Each entry names the course, links to the issuer's verification page when one is available, and displays the issuer-hosted certificate image or a committed local copy.
 
-<br/>
+**[Browse the certificate index](#certificate-index) · [View Montasim's GitHub profile](https://github.com/montasim) · [Report a broken record](https://github.com/montasim/certifications/issues)**
 
-```
-NOTE: Certifications are sorted by alphabetically A - Z.
-```
+## How to use this repository
 
-<br/>
-<br/>
+1. Expand a certificate entry below.
+2. Select the certificate image or title link to open the issuer's verification page.
+3. Use the issuer page—not the screenshot alone—when independent verification matters.
+
+The entries are presented alphabetically by course title. This is a personal evidence archive, not a software package, training recommendation, or claim that every course remains current.
+
+## Scope and verification
+
+- Most records link to Udemy or Coursera certificate pages and load issuer-hosted images.
+- The Git and GitHub certificate also has a repository-local image at [`media/images/Git + GitHub for Open Source Collaboration.png`](media/images/Git%20+%20GitHub%20for%20Open%20Source%20Collaboration.png).
+- Issuers can change, remove, or restrict certificate URLs independently of this repository.
+- A certificate confirms completion under the issuer's rules; it does not by itself establish current proficiency or professional experience.
+- Course names and images are third-party marks and materials retained here for personal verification and attribution.
+
+## Certificate index
 
 <details>
     <summary> Learn Flowcharting. Be a Professional programmer! </summary>
@@ -282,64 +284,45 @@ NOTE: Certifications are sorted by alphabetically A - Z.
     </a>
 </details>
 
-<br/>
-<br/>
-<br/>
-<br/>
+## Maintaining the index
 
-<!-- feel free to contact me text start -->
-<div align="center"> 
-    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
-</div>
-<!-- feel free to contact me text end -->
+When adding or correcting a record:
 
-<br/>
+1. Use the exact title shown by the issuer.
+2. Link to the issuer's verification page rather than a generic course page.
+3. Prefer an issuer-hosted image; commit a local image only when redistribution is appropriate.
+4. Provide meaningful alternative text that names the certificate.
+5. Keep the index alphabetical and remove accidental duplicates.
+6. Check the external link in a private browser session to confirm that it is publicly verifiable.
 
-<!-- social media links start -->
-<table align="center">
-    <thead align="center">
-        <tr>
-            <th>
-                <a href="https://www.linkedin.com/in/montasim">
-                    <img alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.github.com/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/github/white" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim">
-                    <img alt="github icon" src="https://cdn.simpleicons.org/stackoverflow" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://montasim-dev.web.app/">
-                    <img alt="web icon" src="https://cdn.simpleicons.org/googlechrome" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:montasimmamun@gmail.com">
-                    <img alt="gmail icon" src="https://cdn.simpleicons.org/gmail" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://www.facebook.com/montasimmamun/">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/facebook" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://twitter.com/montasimmamun">
-                    <img alt="facebook icon" src="https://cdn.simpleicons.org/twitter" width="35px">
-                </a>
-            </th>
-        </tr>
-    </thead>
-</table>
-<!-- social media links end -->
-<!-- connect with me end -->
+There is no build or dependency-installation step. Preview `README.md` in GitHub-compatible Markdown before submitting a change.
 
-<br/>
-<br/>
-<br/>
+## Status and limitations
+
+- The repository currently contains one local certificate image and otherwise depends on third-party image hosts.
+- Some historical issuer links may expire, redirect, require authentication, or stop embedding correctly.
+- "The Complete C Programming Tutorial" is currently listed twice with the same certificate identifier; this is preserved from the existing record pending cleanup.
+- The repository has no automated link checker, CI workflow, structured certificate manifest, or release process.
+- Certificate identifiers are intentionally public for verification. Do not add private student records, account details, payment information, or unrelated personal data.
+
+## Support and corrections
+
+Use [GitHub Issues](https://github.com/montasim/certifications/issues) for broken verification links, incorrect titles, duplicate records, or inaccessible images. Include the affected entry and a corrected issuer URL when available.
+
+For a privacy-sensitive correction, contact [Montasim privately](mailto:montasimmamun@gmail.com).
+
+## Contributing
+
+Evidence-backed corrections are welcome. Keep changes focused, preserve issuer attribution, and do not add certificates for another person. The repository does not currently include dedicated contribution, code-of-conduct, or security-policy files.
+
+## Funding
+
+Optional support for maintained public work is available through [SupportKori](https://www.supportkori.com/montasim). Reporting broken evidence and improving accessibility are equally valuable.
+
+## Author
+
+Maintained by [Montasim](https://github.com/montasim).
+
+## License
+
+No license file is present. The repository is publicly viewable, but that does not grant permission to reuse certificate images or issuer materials. Each certificate and course name remains subject to its issuer's terms.
