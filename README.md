@@ -16,7 +16,7 @@ This repository keeps certificate evidence in one browsable place instead of sca
 2. Select the certificate image or title link to open the issuer's verification page.
 3. Use the issuer page—not the screenshot alone—when independent verification matters.
 
-The entries are presented alphabetically by course title. This is a personal evidence archive, not a software package, training recommendation, or claim that every course remains current.
+The entries retain their existing archive order rather than claiming a chronological or alphabetical sequence. This is a personal evidence archive, not a software package, training recommendation, or claim that every course remains current.
 
 ## Scope and verification
 
@@ -32,7 +32,7 @@ The entries are presented alphabetically by course title. This is a personal evi
     <summary> Learn Flowcharting. Be a Professional programmer! </summary>
     <br/>
     <a href="https://www.udemy.com/certificate/UC-7QSQRBD3/">
-        <img loading="lazy" alt="https://udemy-certificate.s3.amazonaws.com/image/UC-7QSQRBD3.jpg?v=1568346719000" />
+        <img loading="lazy" alt="Learn Flowcharting. Be a Professional programmer!" src="https://udemy-certificate.s3.amazonaws.com/image/UC-7QSQRBD3.jpg?v=1568346719000" />
     </a>
 </details>
 
@@ -292,7 +292,7 @@ When adding or correcting a record:
 2. Link to the issuer's verification page rather than a generic course page.
 3. Prefer an issuer-hosted image; commit a local image only when redistribution is appropriate.
 4. Provide meaningful alternative text that names the certificate.
-5. Keep the index alphabetical and remove accidental duplicates.
+5. Keep the chosen ordering consistent and remove accidental duplicates.
 6. Check the external link in a private browser session to confirm that it is publicly verifiable.
 
 There is no build or dependency-installation step. Preview `README.md` in GitHub-compatible Markdown before submitting a change.
